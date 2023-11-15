@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style/main-style.css">
+  <link rel="stylesheet" href="style/contacts.css">
+  <title>Document</title>
+</head>
+<body>
+  <header>
+    <nav class="wrapper">
+      <a class="logo" href="home.html">
+        <img src="img/logo.png" alt="logo">
+      </a>
+      <div class="menu">
+        <ul>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contacts.html">Contatti</a></li>
+        </ul>
+        <i class="material-icons">menu</i>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <div class="wrapper">
+        <h1>contattaci</h1>
+        <div class="form-container">
+          <form action="/contacts.html" method="get">
+            <label for="nome">Nome</label>
+            <input type="text" name="nome" id="nome" required>
+            <label for="cognome">Cognome</label>
+            <input type="text" name="cognome" id="cognome" required>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" required>
+            <label for="messaggio">Messaggio</label>
+            <textarea name="messaggio" id="messaggio" cols="30" rows="10" required></textarea>
+            <div>
+              <div>
+                <input type="radio" name="privacy" id="privacy" required>
+                <label for="privacy">Accetta la privacy</label>
+              </div>
+              <div>
+                <input type="checkbox" name="news" id="news">
+                <label for="news">Iscriviti alla newsletter</label>
+              </div>
+            </div>
+            <input type="submit" value="Invia">
+          </form>
+          <img src="img/contattaci.jpg" alt="contattaci">
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrapper footer-content">
+      <a class="logo" href="home.html">
+        <img src="img/logo.png" alt="logo">
+      </a>
+      <div class="footer-links">
+        <div class="pagine">
+          <h3>Pagine</h3>
+          <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contacts.html">Contatti</a></li>
+          </ul>
+        </div>
+        <div class="links">
+          <h3>Link</h3>
+          <ul>
+            <li><a>Cookie Policy</a></li>
+            <li><a>Privacy Policy</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="copyright">
+      <a href="https://github.com/cartu94" target="_blank">© 2023 - Luca Carturan</a>
+    </div>
+  </footer>
+</body>
+</html>

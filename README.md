@@ -63,6 +63,27 @@ Usate la vostra immaginazione, fate come fareste nel vostro sito personale!
 
 Ovviamente anche nella pagina about saranno presenti la navbar ed il footer già realizzati per la homepage.
 
-## MILESTONE 8 - Media Queries
+## Milestone 8 - Media Queries
 
 Rendere la pagina about responsive tramite le media queries
+
+## Milestone 9 - Pagina Contatti
+
+Ed eccoci.... un bel form?! La pagina deve esser strutturata in questo modo:
+
+* Form a sinistra con:
+
+  * Nome
+  * Cognome
+  * Email
+  * Messaggio
+  * radio privacy
+  * checkbox newsletter
+  * bottone di invio
+
+* Immagine a destra
+
+La versione mobile è strutturata in verticale:
+
+* Form sopra
+* Immagine sotto
