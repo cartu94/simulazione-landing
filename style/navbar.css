@@ -24,6 +24,24 @@ nav {
   font-weight: bold;
 }
 
-.logo {
-  margin-left: 20px;
+nav .logo img {
+  width: 50px;
+  height: 50px;
+  margin-left: 40px;
+  filter: invert(80%);
+}
+
+.menu i {
+  display: none;
+}
+
+/* media query mobile */
+@media only screen and (max-width: 430px) {
+  .menu ul {
+    display: none;
+  }
+  .menu i {
+    display: block;
+    margin: 0 40px;
+  }
 }

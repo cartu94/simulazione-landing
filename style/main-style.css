@@ -1,6 +1,8 @@
 
 /* import GoogleFonts */
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700,900');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
 
 @import "navbar.css";
 @import "jumbo.css";
@@ -20,16 +22,6 @@
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-}
-
-.flex-center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.row-reverse {
-  flex-direction: row-reverse;
 }
 
 /* commons */

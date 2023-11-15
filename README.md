@@ -30,3 +30,23 @@ Realizzare due sezioni di contenuto (sotto al jumbo): saranno divise in due bloc
 Realizzare la sezione raggiungibile dalla CTA 1 (siamo sempre in homepage).
 
 La sezione in questione sarà composta da un titolo centrale alla pagina con tre card.
+
+## Milestone 5 - Footer
+
+Realizzare il footer
+
+**Attenzione:**
+
+* Cliccando sul logo ci riporta in homepage (nella parte del jumbo) SEMPRE (anche nelle altre pagine)
+* Sotto la lista delle pagine abbiamo i link per navigare nelle pagine
+* Cliccando sul vostro nome alla fine del footer si va a finire sul vostro profilo github
+
+## Milestone 6 - Media Queries
+
+Rendere la homepage responsive tramite media queries
+
+In particolare:
+
+* Da mobile le voci del menu nella navbar devono sparire. Al loro posto sarà presente l’icona dell’hamburger menu (trovate una icona online, oppure per chi vuol provare il brivido di testare cose nuove, allora provate con un SVG da https://fontawesome.com/icons
+* Ridimensionate i testi in maniera uniforme (se provate a dare a tutti i titoli la stessa dimensione, magari anche con le media queries il lavoro è ridotto, no? :D )
+* Le sezioni realizzate nella milestone 3 dovranno essere gestite in questo modo: blocco del testo sopra, blocco dell’immagine sotto (per entrambe le section, vedete voi come gestirle!)

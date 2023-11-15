@@ -55,3 +55,18 @@
   box-shadow: #999 0 0 15px;
   font-weight: bold;
 }
+
+/* media query mobile */
+@media only screen and (max-width: 430px) {
+  .jumbo h1 {
+    font-size: 3em;
+  }
+  .jumbo .cta {
+    font-size: 1em;
+  }
+  .jumbo .cta-container {
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+}
