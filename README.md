@@ -47,6 +47,22 @@ Rendere la homepage responsive tramite media queries
 
 In particolare:
 
-* Da mobile le voci del menu nella navbar devono sparire. Al loro posto sarà presente l’icona dell’hamburger menu (trovate una icona online, oppure per chi vuol provare il brivido di testare cose nuove, allora provate con un SVG da https://fontawesome.com/icons
+* Da mobile le voci del menu nella navbar devono sparire. Al loro posto sarà presente l’icona dell’hamburger menu (trovate una icona online, oppure per chi vuol provare il brivido di testare cose nuove, allora provate con un SVG da https://fontawesome.com/icons)
 * Ridimensionate i testi in maniera uniforme (se provate a dare a tutti i titoli la stessa dimensione, magari anche con le media queries il lavoro è ridotto, no? :D )
 * Le sezioni realizzate nella milestone 3 dovranno essere gestite in questo modo: blocco del testo sopra, blocco dell’immagine sotto (per entrambe le section, vedete voi come gestirle!)
+
+## Milestone 7 - Pagina About
+
+Realizzeremo la pagina About del ristorante, dove spiegherete la storia del ristorante / dello chef.
+
+Magari una crono-storia del ristorante, anche fatta ad elenco (1200 a.c : apertura ristorante, 1230: ampliato menù .... roba del genere! )
+
+Sarà una pagina molto semplice con una grande immagine sul lato sinistro dello schermo ed un testo sul lato destro
+
+Usate la vostra immaginazione, fate come fareste nel vostro sito personale!
+
+Ovviamente anche nella pagina about saranno presenti la navbar ed il footer già realizzati per la homepage.
+
+## MILESTONE 8 - Media Queries
+
+Rendere la pagina about responsive tramite le media queries
