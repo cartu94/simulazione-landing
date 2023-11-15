@@ -1,0 +1,28 @@
+nav {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu ul li {
+  list-style: none;
+  margin: 0 10px;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  color: #000;
+  font-size: 1.2em;
+  padding: 0.5em;
+}
+
+.logo {
+  margin-left: 20px;
+}
