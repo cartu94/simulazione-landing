@@ -1,0 +1,41 @@
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+
+footer .footer-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-left: 20px;
+}
+
+footer ul {
+  margin: 0 100px 50px 0;
+}
+footer li {
+  list-style: none;
+  margin-top: 15px
+}
+
+footer a {
+  color: #000;
+  text-decoration: none;
+}
+
+footer .copyright {
+  margin-top: 20px;
+  border-top: #ddd 5px solid;
+  padding-top: 20px;
+  font-size: 0.8em;
+  text-align: center;
+}
+
+footer .logo img{
+  width: 100px;
+  height: 100px;
+  margin-left: 20px;
+  filter: invert(80%);
+}
