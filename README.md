@@ -24,3 +24,9 @@ Realizzare due sezioni di contenuto (sotto al jumbo): saranno divise in due bloc
 * **Sezione 1:** Immagine a sinistra, testo a destra (titolo, sottotitolo e paragrafo)
 
 * **Sezione 2:** Immagine a destra, testo a sinistra (titolo, sottotitolo e paragrafo)
+
+## Milestone 4 - Sezione scopri di più
+
+Realizzare la sezione raggiungibile dalla CTA 1 (siamo sempre in homepage).
+
+La sezione in questione sarà composta da un titolo centrale alla pagina con tre card.
