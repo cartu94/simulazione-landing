@@ -1,0 +1,11 @@
+
+@import "jumbo.css";
+@import "content.css";
+@import "more.css";
+
+/* disattiva link pagina attiva */
+div ul li a[href="home.html"] {
+  pointer-events: none;
+  cursor: default;
+  color: #fff;
+}

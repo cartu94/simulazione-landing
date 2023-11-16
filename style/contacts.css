@@ -101,3 +101,10 @@ section {
     align-items: center;
   }
 }
+
+/* disattiva link pagina attiva */
+div ul li a[href="contacts.html"] {
+  pointer-events: none;
+  cursor: default;
+  color: #fff;
+}

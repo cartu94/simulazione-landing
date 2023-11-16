@@ -46,3 +46,10 @@ section img {
     justify-content: center;
   }
 }
+
+/* disattiva link pagina attiva */
+div ul li a[href="about.html"] {
+  pointer-events: none;
+  cursor: default;
+  color: #fff;
+}

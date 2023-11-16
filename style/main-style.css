@@ -5,9 +5,6 @@
 
 
 @import "navbar.css";
-@import "jumbo.css";
-@import "content.css";
-@import "more.css";
 @import "footer.css";
 
 /* reset css */
@@ -25,18 +22,31 @@
 }
 
 /* commons */
+html{scroll-behavior:smooth}
+
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #ddd;
+  padding-top: 80px;
 }
 
 header {
   border-bottom: 2px solid #666;
   background-color: #aaa;
+  position: fixed;
+  top: 0;
+  width: 100vw;
 }
 
 footer {
   border-top: 2px solid #666;
   background-color: #aaa;
   padding: 50px 0 20px 0;
+}
+
+a:hover {
+  color: #fff;
+}
+a > img:hover {
+  opacity: 0.8;
 }

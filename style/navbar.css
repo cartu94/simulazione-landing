@@ -5,6 +5,10 @@ nav {
   align-items: center;
 }
 
+.menu {
+  margin-right: 40px;
+}
+
 .menu ul {
   display: flex;
   justify-content: space-between;
@@ -22,6 +26,10 @@ nav {
   font-size: 1.2em;
   padding: 0.5em;
   font-weight: bold;
+}
+
+.menu ul li a:hover {
+  color: #fff;
 }
 
 nav .logo img {
