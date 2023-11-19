@@ -1,7 +1,10 @@
 # SIMULAZIONE LANDING PAGE
 
 Simulazione di una landing page scritta in html e css vanilla
+
 TRACCIA 1 - Landing page per un ristorante
+
+### https://cartu94.github.io/simulazione-landing/
 
 ## Milestone 1 - Struttura
 
